@@ -65,12 +65,26 @@
 2. Установить dashboard.
 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
 
+## Решение:
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/01.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/02.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/03.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/04.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/05.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/06.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/08.png)
 ------
 
 ### Задание 2. Установка и настройка локального kubectl
 1. Установить на локальную машину kubectl.
 2. Настроить локально подключение к кластеру.
 3. Подключиться к дашборду с помощью port-forward.
+
+## Решение:
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/07.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/09.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/10.png)
+![kubernetes](https://github.com/valdemar-2502/Kubernetes-Causes-and-Causes.-The-kubectl-command-Homework/blob/main/screenshots/11.png)
 
 ------
 
